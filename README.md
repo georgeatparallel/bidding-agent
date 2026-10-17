@@ -118,6 +118,7 @@ uv run uvicorn api.server:app --host 0.0.0.0 --port 8001
 | `bidding-agent/docs/技术栈.md` | 选型与版本锁定、版本兼容性踩坑注记 |
 | `bidding-agent/docs/组件工作机制.md` | 20 个组件的 Mermaid 机制图解 |
 | `bidding-agent/docs/增加Agent功能.md` | 二期可扩展功能清单 |
+| [Parallel Search MCP 调研](bidding-agent/docs/parallel-search-mcp.md) | 在 Claude Code 中搜索并核验最新采购规则（可选） |
 | `CLAUDE.md` | AI 编码助手工作指引（架构约定、契约红线、测试约定） |
 
 ## Git 协作
